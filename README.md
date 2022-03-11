@@ -8,3 +8,5 @@ Features:
 - pointcloud renderer for molecular orbitals
 - custom boys function implementation which is decently fast with good enough accuracy
 - parsing of the BSE json format of basis sets using serde-rs
+
+Fork me daddy!
